@@ -15,7 +15,7 @@ from aiogram.fsm.state import State, StatesGroup
 # --------------------------
 
 # 1. Ваш токен бота от @BotFather
-BOT_TOKEN = "7613767726:AAFwZ5tA4B1tr14eCYunucJZzRJtl61YyBM"
+BOT_TOKEN = "7613767726:AAEz-X0etTA98koskmVAe0XV1znAAxZJHog"
 
 # 2. ID чата, куда будут приходить обращения (Штаб). 
 ADMIN_CHAT_ID_RAW = 3043189571 
@@ -592,3 +592,4 @@ async def main() -> None:
 
 if __name__ == "__main__":
     asyncio.run(main())
+
